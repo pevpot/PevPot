@@ -42,7 +42,6 @@
     "simple-timeago": "^1.0.0"
   },
   "engines": {
-    "node": "5.0.x",
-    "npm": "3.8.6"
+    "node": "10.x"
   }
 }
